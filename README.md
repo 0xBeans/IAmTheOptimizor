@@ -37,6 +37,6 @@ The input array will always be length 10. All numbers in the inputArr are [0, 49
 
 4. You must call the contract via etherscan or via script. There is NO frontend but feel free to create on if you wish :)
 
-Contract address: `0x27761C482000F2fC91E74587576c2B267eEb4546`
+Contract address is on mainnet: `0x27761C482000F2fC91E74587576c2B267eEb4546`
 
 Have fun!
