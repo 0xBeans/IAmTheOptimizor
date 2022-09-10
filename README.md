@@ -9,6 +9,8 @@ Create a smart contract (a "player") by implementing the IPlayer interface that 
 
 Your goal is to get the LOWEST score. score = bytecode_size + gasUsed().
 
+ANYTHING goes.
+
 # Problem:
 
 An array of length 10 will be pseudo randomly generated along with a target number `n`. Find the 3 indexes in the array where the values of the array at the 3 indexes sum up to `n`.
